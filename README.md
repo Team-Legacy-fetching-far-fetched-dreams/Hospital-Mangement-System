@@ -1,7 +1,7 @@
 # Hospital-Mangement-System
 
 Hospital Management System (HMS)
-This is a web application used to keep records of patients. Information of the patient is entered into the system while the patient is being passed through the process in the hospital. This is type of hospital system is designed primary a subject-based system. Subject-based systems by which we mean Electronic Health Records (HER) or Electronic Medical Records (EMR)which is mainly used the hospital to manage and store a complete digital history of the patients.
+This is a web application used to keep records of patients. Information of the patient is entered into the system while the patient is being passed through the process in the hospital. This is type of hospital system is designed primary a subject-based system. Subject-based systems by which we mean Electronic Health Records (HER) or Electronic Medical Records (EMR) which is mainly used by the hospital to manage and store a complete digital history of the patients.
 Compared to paper-based records, EHR and EMR help avoid data duplication, since all information is stored in one file modified over time.
 
 The Users of this HMS is only the employees in the particular hospital or clinic. They are Administrator, Doctor, Nurse, and the clerk.
